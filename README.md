@@ -12,6 +12,7 @@
 > 
 > Crie uma view que seleciona todas as locações e seus respectivos veículos e clientes.
 
+![image](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/8c58ce07-e542-4a87-b546-c6eb6be71c1b)
 
 ## Tabelas
 ![image](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/a4907acf-13c6-40db-80be-251ade8cd7be)
