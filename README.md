@@ -47,7 +47,7 @@
     "zoom": 100
 }
 ```
-## Modelo Relacional 
+## Modelos Relacionais
 ### Funcionarios
 ![image](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/a470ed06-56ef-4107-9b1f-ae1a74e6dd5c)
 
