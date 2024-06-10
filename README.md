@@ -1,38 +1,35 @@
-# AF Universidade Sistema Universidade (FUNCTIONS) 📒🖋️
+# AF NoSQL
 
 ## Descrição da Atividade 📓
-> Crie um banco de dados para armazenar os dados dos alunos e cursos de uma universidade;
+### Etapa 1
+> Um usuário configura seu navegador com os seguintes dados:
 > 
-> Cada curso pode pertencer a somente uma área;
+> página inicial: www.google.com
 > 
-> Utilize Stored Procedures para automatizar a inserção e seleção dos cursos;
+> Idioma preferido: Português do Brasil
 > 
-> O aluno possui um e-mail que deve ter seu endereço gerado automaticamente no seguinte formato: `<nome.sobrenome@dominio.com>`
->
-> Crie uma rotina que recebe os dados de um novo curso e o insere no banco de dados;
+> Localização: São Paulo
 > 
-> Crie uma função que recebe o nome de um curso e sua área, em seguida retorna o id do curso;
+> Tema: Clássico
 > 
-> Crie uma procedure que recebe os dados do aluno e de um curso e faz sua matrícula;
+> Mostrar favoritos: Sim
 > 
-> Caso o aluno já esteja matriculado em um curso, essa matrícula não pode ser realizada;
+> Zoom: 100%
 > 
-> Crie o modelo lógico do exercício.
-> 
-> Crie 200 registros diferentes de alunos;
-> 
-> Crie 25 tipos de cursos de uma universidade.
+> Escreva os dados acima na notação JSON. Para esta atividade utilize o bloco de notas, salve o arquivo com o nome: localização_google_sp.json
 
+### Etapa 2 
+> Uma empresa deseja cadastrar seus funcionários. Ao verificar seus documentos, encontrou-se a seguinte planilha abaixo:
+> 
+> ![image](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/25d33d9b-4839-42f0-b561-6c945291fd43)
+> 
+> Crie, conforme o modelo relacional, as tabelas normalizadas. Crie também um documento JSON que contenha esses dados.
 
-## Tabelas
-![Tables](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/c151c1f7-1d5d-4a2a-aecc-ee4428de6367)
-
-## Procedures
-![Procedures](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/ab41df35-7283-4fe8-87fb-fe4562efe1fc)
-
-## Inserção dos Alunos
-![InserirAluno](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/3c976c75-ab5f-4c82-881b-b1bf12596b81)
-
-##Inserção dos Cursos
-![InserirCursos](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/f2a4f69a-339d-4fe7-b9eb-4b567e8dea75)
-
+### Etapa 3
+> Crie um banco de dados NoSQL no Firebase conforme foi demonstrado no conteúdo da aula sobre banco de dados não relacionais;
+> Ao término do exemplo, crie um segundo banco de dados, mas utilizando o tema Jogos;
+> Nesse banco deve haver, coleções de personagens, jogos e fabricante;
+> Relacione documentos de diferentes coleções.
+> Para entrega desta atividade utilize o readme.md de um repositório remoto, crie os códigos json das etapas 1 e 2;
+> 
+> Na terceira etapa tira um print-screen da sua tela onde contem o banco de dados não relacional.
