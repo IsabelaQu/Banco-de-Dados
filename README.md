@@ -66,3 +66,6 @@
 
 ## Firebase Jogos, Fabricante e Personagens
 ![image](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/65725756-db6f-4844-860e-2c4a80c11981)
+
+![image](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/45eace53-71fd-43eb-b9af-770fd053e44d)
+
