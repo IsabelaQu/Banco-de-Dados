@@ -61,6 +61,8 @@
 > 
 > Na terceira etapa tira um print-screen da sua tela onde contem o banco de dados não relacional.
 
-## Firebase 
+## Firebase Exemplo Slide
 ![aaaa](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/40fc3256-4695-4ff5-a199-4cd4e9bf0aee)
 
+## Firebase Jogos, Fabricante e Personagens
+![image](https://github.com/IsabelaQu/Banco-de-Dados/assets/124175141/65725756-db6f-4844-860e-2c4a80c11981)
